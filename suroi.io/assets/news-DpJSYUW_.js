@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-B5Qt9EMX.js";import{$ as o}from"./vendor-BuPyRRwS.js";import{c as r}from"./client-CHhBL0-4.js";import{p as m}from"./news-D6lRERwC.js";import{n as s}from"./newsPosts-Cj0oDTA_.js";o(()=>{r("#splash-more"),o("#news-articles").html(s.map(m).join(""))});
